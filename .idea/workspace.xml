@@ -4,57 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c12f5e7-a14d-4228-ab51-d39493355f81" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a0873fbe-9c5a-4985-8404-7122e5bf57ec.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a0873fbe-9c5a-4985-8404-7122e5bf57ec/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a0873fbe-9c5a-4985-8404-7122e5bf57ec/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a0873fbe-9c5a-4985-8404-7122e5bf57ec/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a0873fbe-9c5a-4985-8404-7122e5bf57ec/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/src/main/java/com/deluxe/DeluxeLXBlogApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/src/main/java/com/deluxe/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/target/classes/com/deluxe/DeluxeLXBlogApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/target/classes/com/deluxe/controller/ArticleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/common/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/constants/SystemConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/domain/entity/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/domain/entity/ArticleTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/domain/vo/HotArticleVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/enums/AppHttpCodeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/mapper/ArticleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/mapper/ArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/service/impl/ArticleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/main/java/com/deluxe/utils/BeanCopyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/src/test/java/com/deluxe/MapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/common/ResponseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/config/WebConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/domain/entity/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/domain/entity/ArticleTag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/domain/vo/HotArticleVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/enums/AppHttpCodeEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/mapper/ArticleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/mapper/ArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/service/ArticleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/classes/com/deluxe/service/impl/ArticleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeluxeLX-framework/target/test-classes/com/deluxe/MapperTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="2c12f5e7-a14d-4228-ab51-d39493355f81" name="变更" comment="DeluxeLX 初次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeluxeLX-blog/src/test/java/com/deluxe/DeluxeLXBlogTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,8 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662607290517</updated>
       <workItem from="1662607291977" duration="23524000" />
-      <workItem from="1665226496268" duration="597000" />
+      <workItem from="1665226496268" duration="1040000" />
     </task>
+    <task id="LOCAL-00001" summary="DeluxeLX 初次提交">
+      <created>1665227202603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665227202603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DeluxeLX 初次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="DeluxeLX 初次提交" />
   </component>
 </project>
