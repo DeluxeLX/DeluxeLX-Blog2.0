@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.deluxe.mapper.ArticleMapper">
+
+    <resultMap id="hotArticleVoMap" type="com.deluxe.domain.vo.HotArticleVo">
+        <id property="id" column="id"/>
+        <result property="title" column="title"/>
+        <result property="viewCount" column="view_count"/>
+    </resultMap>
+
+    <select id="getHotArticleVoList" resultMap="hotArticleVoMap">
+        select id, title, view_count from sg_article order by view_count desc;
+    </select>
+
+</mapper>
