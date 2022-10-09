@@ -5,5 +5,6 @@ public class DeluxeLXBlogTest {
         System.out.println("测试一下git工具...");
         System.out.println("测试一下git工具。。。2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
